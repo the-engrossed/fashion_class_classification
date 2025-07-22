@@ -15,3 +15,20 @@ We need solve the classification problem using neural networks
 
 1. Numpy
 2. tensorflow
+3. Keras
+4. CNN
+
+## Results & Predictions
+
+1. Train accuracy = 0.9649 , Validation accuracy = 0.9191
+2. Test accuracy = 0.907
+
+**Prediction**
+![Project Diagram](output.png)
+
+**Confusion** **Matrix**
+![Project Diagram](confusion_matrix.png)
+
+**Classification** **Report**
+![Project Diagram](Classication_report.png)
+
