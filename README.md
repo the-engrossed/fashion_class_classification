@@ -30,5 +30,5 @@ We need solve the classification problem using neural networks
 ![Project Diagram](confusion_matrix.png)
 
 **Classification** **Report**
-![Project Diagram](Classication_report.png)
+![Project Diagram](Classification_report.png)
 
